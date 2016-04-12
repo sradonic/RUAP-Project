@@ -10,7 +10,7 @@ namespace ConsoleApplicationLV_RUAP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Stjepan Radonica");
+            Console.WriteLine("Pozdrav iz aplikacije od Stjepan Radonica moj broj indeksa");
         }
     }
 }
